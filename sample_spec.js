@@ -5,7 +5,7 @@
 // check out the link below and learn how to write your first test:
 // https://on.cypress.io/writing-first-test
 
-describe('BlueStack_Validation', () => {
+describe('BStack_Validation', () => {
   it('Checkout & Order Validation', function(){
 		//visiting site
 		cy.visit('https://bstackdemo.com/')
